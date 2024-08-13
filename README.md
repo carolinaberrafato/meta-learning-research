@@ -16,6 +16,8 @@ The experiments investigate the impact of data entropy in the classification of 
 
 ## Running the Project
 
-1. Download the dataset in the directory "Dataset"
-2. Create in your Google Drive in /MyDrive a folder called "Datasets" and add the .csv in it
-3. Open the notebook in Google Colab and run
+1. Download the dataset `heart.csv`
+2. Create in your Google Drive in `/MyDrive` a folder called "Datasets" and add the .csv in it
+3. You're all set! Open the notebook in Google Colab and run it
+
+_Note: These experiments were replicated for more databases. They will be added in this repository soon._
